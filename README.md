@@ -15,5 +15,6 @@ Press Win + R, type cmd, and hit Enter
 In the command prompt, run:
 pip install requests pywin32 psutil
 
+MAKE SURE TO RUN IT AS ADMIN!
 
 Thats it! ur set to go if it isnt working U can always make a issue!
