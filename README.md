@@ -18,3 +18,4 @@ pip install requests pywin32 psutil
 MAKE SURE TO RUN IT AS ADMIN!
 
 Thats it! ur set to go if it isnt working U can always make a issue!
+Make sure to check the latest release for the latest version!
